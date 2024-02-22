@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958231488414",
+    "project_id": "rajakemas-696bc",
+    "storage_bucket": "rajakemas-696bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958231488414:android:053c09d646367d6b8b988f",
+        "android_client_info": {
+          "package_name": "com.example.rajakemas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Z-Mbz52-ZIQZt8aLtYhor6fVG5IKuMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
