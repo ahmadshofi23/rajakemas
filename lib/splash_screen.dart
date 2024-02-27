@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Route _createRoute() {
     return PageRouteBuilder(
       pageBuilder: (context, animation, secondaryAnimation) => const HomeScreen(),
-      transitionDuration: const Duration(seconds: 3),
+      transitionDuration: const Duration(milliseconds: 600),
       transitionsBuilder: (context, animation, secondaryAnimation, child) {
         return SlideTransition(
           position: Tween<Offset>(
